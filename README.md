@@ -1,5 +1,10 @@
 # products
 
+## Demo
+
+https://vue-project-api.netlify.app/
+
+
 ## Project setup
 ```
 npm install
